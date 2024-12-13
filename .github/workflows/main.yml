@@ -1,1 +1,0 @@
-go build -o go-ips-forward main.go
